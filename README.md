@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebert Toribio</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">A passionate Software Engineer from Peru</h3>
 
 - 🔭 I’m currently working on **LoanPro**
 
