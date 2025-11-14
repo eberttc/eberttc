@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **LoanPro**
 
-- 🌱 I’m currently learning **Clojure**
-
-- 💬 Ask me about **Java, Nodejs , Elixir**
+- 💬 Ask me about **Java, Clojure , Elixir**
 
 - 📫 How to reach me **Eberttc@gmail.com**
 
